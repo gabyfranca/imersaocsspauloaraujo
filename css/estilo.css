@@ -1,0 +1,36 @@
+body {
+    background-color: #cfcfc4
+    }
+  header {
+    background: url(https://eventostech.com.br/wp-content/uploads/2019/05/abc-dev19-eventostech-800x450.jpg) center no-repeat;
+    background-size: cover; 
+    display: flex;
+    justify-content: right;
+    height: 300px;
+   }
+  
+  a {
+    text-decoration: none;
+    color: white; 
+  }
+  
+  a:hover {
+    color: grey;
+    text-decoration: underline;
+    transition: 1s;
+  }
+  
+  
+  .menu {
+    margin-right: 15px;
+  }
+  
+  .site-subtitle,
+  .site-title
+  {
+    font-family: arial;
+  }
+  
+  .site-subtitle {
+    text-decoration: italic;
+  }
